@@ -15,5 +15,6 @@
 <img width="2300" alt="image" src="https://github.com/user-attachments/assets/8e849e7c-a4a8-447a-bfeb-c165657d3f96">
 huggingface目录下搜索Embedding模型
 <img width="2240" alt="image" src="https://github.com/user-attachments/assets/cb429e25-8df0-4974-911e-419eaf79a57f">
+找到模型部署即可
 <img width="1494" alt="image" src="https://github.com/user-attachments/assets/19ccb344-2d3f-4b40-9a97-6724795940c6">
 

@@ -18,8 +18,6 @@ huggingface目录下搜索Embedding模型
 找到模型部署即可
 <img width="1494" alt="image" src="https://github.com/user-attachments/assets/19ccb344-2d3f-4b40-9a97-6724795940c6">
 部署好之后可以找到对应的模型和endpoint name
-<img width="2078" alt="image" src="https://github.com/user-attachments/assets/7094c861-9d42-49a7-b239-97eca4ff8167">
-
 
 
 
